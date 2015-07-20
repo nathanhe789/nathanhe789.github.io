@@ -1,0 +1,26 @@
+@import url(http://fonts.googleapis.com/css?family=Lora);
+
+body {
+  font-family: "Lora", serif;
+  background-color: #A8FAD9;
+  color: #7080FC;
+    /*width: 75%;
+    height: 120%;
+    */
+  padding: 50px;
+}
+
+div{
+    margin: 20px;
+    padding: 40px;
+}
+
+p{
+  padding: 50px;
+
+}
+
+div{
+  margin: 20px;
+  padding: 40px;
+}

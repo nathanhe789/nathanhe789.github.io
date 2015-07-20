@@ -1,0 +1,37 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto+Slab);
+
+/* tag */
+body {
+  font-family: 'Roboto Slab', serif;
+  color: #7080FC;
+  background-color: #BBF9BE;
+  /*width: 75%;
+  height: 120%;
+  */
+  padding: 50px;
+}
+
+div{
+  margin: 20px;
+  padding: 40px;
+}
+
+p{
+  padding: 50px;
+
+}
+
+div{
+  margin: 20px;
+  padding: 40px;
+}
+
+/* id */
+#worktag{
+  color: green;
+}
+
+/* class */
+.worktag {
+  color: red;
+}
