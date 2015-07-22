@@ -1,5 +1,23 @@
 @import url(http://fonts.googleapis.com/css?family=Roboto+Slab);
 
+h1{
+  text-align: center;
+  font-size: 45px;
+}
+
+/* Left Section*/
+#left{
+  overflow: hidden;
+  width: 50%;
+  height: 35%;
+  /*margin-right: 50px;*/
+}
+/* Right Section*/
+#right{
+  float: right;
+  width: 50%;
+  height: 50%;
+}
 /* tag */
 body {
   font-family: 'Roboto Slab', serif;
@@ -8,22 +26,27 @@ body {
   /*width: 75%;
   height: 120%;
   */
-  padding: 50px;
+  padding: 20px;
+}
+
+.container img{
+  width: 50%;
+  height: 50%;
 }
 
 div{
-  margin: 20px;
-  padding: 40px;
+  margin: 0px;
+  padding: 0px;
 }
 
 p{
-  padding: 50px;
+  padding: 0px;
 
 }
 
 div{
-  margin: 20px;
-  padding: 40px;
+  margin: 0px;
+  padding: 20px;
 }
 
 /* id */
